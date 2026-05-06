@@ -59,4 +59,4 @@ streamlit run app.py
 
 ## Author
 
-Kirby
+Kirby.
