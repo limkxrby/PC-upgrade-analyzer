@@ -57,6 +57,8 @@ streamlit run app.py
 - Upgrade cost estimator
 - Predictive performance analysis
 
+https://mainpy-7ahtfbwac9qbutqxj4g5ch.streamlit.app/#system-information
+
 ## Author
 
 Kirby.

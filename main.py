@@ -12,7 +12,7 @@ except ImportError:
 st.set_page_config(page_title="PC Upgrade Analyzer", layout="wide")
 
 st.title("PC Upgrade Analyzer")
-st.write("Analyze system hardware and get upgrade recommendations.")
+st.info("Note: If this app is running on Streamlit Cloud, it analyzes the cloud server. To analyze your own PC, run it locally with: streamlit run main.py")
 
 
 def get_system_info():
